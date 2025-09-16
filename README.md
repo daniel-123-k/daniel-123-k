@@ -1,16 +1,15 @@
-## Hi there 👋
+Hola 👋👋
+Soy Daniel Fernando Saavedra y tengo 20 años
 
-<!--
-**daniel-123-k/daniel-123-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+INTERESES🤔🤔
+Me interesa la programacion y lo que seria los conponentes de pc o celulares
+Tambien lo que seria la programacion.
 
-Here are some ideas to get you started:
+LENGUAJES😊😊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Por el momento ando aprendiendo los que seria c++ y java
+
+Contactarme✉️✉️
+
+Para contactarme seria a traves de mi numero telefonico 322 3980900
+O mi corro dansaa147@gmail.com
